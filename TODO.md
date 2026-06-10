@@ -1,0 +1,4 @@
+- [x] Inspect hr_vault/views.py and urls.py to fix missing view functions
+- [x] Implement hr_vault.views.add_employee and hr_vault.views.list_employees
+- [x] Wire templates (add_employee.html, hr_vault/templates/hr_vault/list_employees.html) to views
+- [x] Run migrations (if needed) and restart Django dev server to confirm no AttributeError
